@@ -2,8 +2,9 @@ body {
   background-color: #008080;
 }
 
-.title-bar, .window, button, input, label, option, select, table, textarea, ul.tree-view {
-    -webkit-font-smoothing: none;
-    font-family: "Pixelated MS Sans Serif",Arial;
-    font-size: 14px !important;
+.title-bar,
+.window,
+button,
+input {
+  font-size: 14px !important;
 }
