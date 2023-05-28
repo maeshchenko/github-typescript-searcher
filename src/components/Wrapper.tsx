@@ -1,4 +1,3 @@
-
 interface IWrapperProps {
     children?: JSX.Element;
     title: string;
